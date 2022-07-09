@@ -1,0 +1,249 @@
+
+.div1{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: #e0dad6;
+    font-family: Poppins, Inter;
+    
+    flex-wrap: wrap;
+    
+    
+}
+.headings,ul{
+    display: flex;
+    
+    justify-content: center;
+    list-style: none;
+    
+    
+}
+.agriplus{
+    padding: 0% 9% 0% 3%;
+}
+.home{
+    padding: 0% 3%;
+}
+.about{
+    padding: 0% 2%;
+}
+.products{
+    padding: 0% 2%;
+}
+.contacts{
+    padding: 0% 2%;
+}
+
+.started{
+    padding: 0% 30% 17% 17%; 
+    background-color:   #ED661F ;
+    height: 17%;
+    width: 40%;
+    margin-left: 17%;
+    float: inline-end;
+    
+}
+.login_get{
+    float: left;
+    display: flex;
+    padding-left: 23%;
+    flex-wrap: nowrap;
+}
+.login{
+    padding: 3%;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+    background-image: url("../Agriplus/image/image\ 1.png" );
+    background-size: 50% 50%;
+    background-color: #ED661F;
+    background-position: 100%;
+    width: 100%;
+    margin-top: 4%;
+    /* background-color: aqua; */
+    
+    backface-visibility: visible;
+    background-origin: border-box;
+    
+}
+.para1{
+    font-weight: 900;
+
+}
+.para2{
+     margin-top: -0.5%;
+}
+.div3{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    padding-left: 5%;
+
+}
+.h31{
+    
+position:absolute ;
+padding-bottom: 20%
+/* text-decoration-line: underline */
+;
+
+}
+.pd31{
+    padding-top: 7%;
+    border-width: 50% ;
+    
+}
+.picha{
+    
+    /* background-color: rgb(39, 39, 172);
+    border: #ED661F; */
+    border-image: url("../Agriplus/image/image\ 3.png")50% round;
+    border: 20% solid transparent;
+    
+}
+.div4{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding-left: 23%;
+
+    
+    
+}
+.category{
+align-items: center;
+padding: 0% 0% 25% 20%;
+position: absolute;
+}
+.para3{
+    padding: 8% 30% 24% 5%;
+}
+.div5{
+ 
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+}
+.most{
+    
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+    text-decoration-thickness: 25%;
+    text-underline-offset: 5%;
+}
+.divpics1{
+    padding-top: 5%;
+    padding-right: 30%;
+    display: flex;
+}
+.cereals{
+    margin-left: 5%;
+}
+.fish{
+    margin-left: 5%;
+}
+.kales{
+    margin-left: 5%;
+}
+.newest{
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+    text-decoration-thickness: 25%;
+    text-underline-offset: 5%;
+}
+.div6{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+}
+.Ahero{
+    margin-left: 5%;
+}
+.Mursik{
+    margin-left: 5%;
+}
+.Tomatoes{
+    margin-left: 5%;
+}
+.divpics2{
+    padding-top: 5%;
+    padding-right: 30%;
+    display: flex;
+}
+.h32{
+text-align: right;
+padding-top: 29%;
+flex-wrap: wrap;
+text-decoration: underline;
+    text-decoration-color: #ED661F;
+    text-decoration-thickness: 25%;
+    text-underline-offset: 5%;
+padding-right: 100%;
+justify-content: flex-end;
+}
+.div7{
+    box-shadow: 5px 10px #888888;
+    
+    
+}
+.stars1,fa{
+    color: #ED661F;
+}
+.Rebecca{
+    display: flex;
+    /* width: 25%;
+    border: #888888; */
+    
+}
+.h34{
+    padding-left: 23%;
+}
+.Rebecca,p{
+    width: 24%;
+}
+.div8{
+    /* border-bottom: #888888 solid;
+    border-bottom: -4%; */
+    
+} 
+.stars2{
+    padding-top: 12%;
+}
+.stars2,fa{
+    color: #ED661F;
+}
+.John{
+    display: flex;
+}
+.h35{
+    padding-left: 10%;
+}
+.stars3,fa{
+    color: #ED661F;
+}
+.Lavington{
+    display: flex;
+}
+.h36{
+    padding-left: 10%;
+}
+.div9{
+    display: flex;
+    
+background-color: black;
+}
+.h41{
+    /* text-align: center; */
+    color: #e0dad6;
+    /* padding-top: 2%; */
+}
+
+.sub{
+    background-color: #ED661F;
+    width: left 2%;
+}
+.p20{
+    color: #e0dad6;
+    text-align: center;
+}

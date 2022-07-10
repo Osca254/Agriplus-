@@ -8,7 +8,7 @@
     background-color: black;
     color: #e0dad6;
     font-family: Poppins, Inter;
-    width: 950px;
+    width: 830px;
     flex-wrap: wrap;
     
     
@@ -69,9 +69,9 @@
     font-weight: 900;
 
 } */
-.para2{
+/* .para2{
      margin-top: -0.5%;
-}
+} */
 .div3{
     display: flex;
     width: 950px;
@@ -234,6 +234,7 @@ justify-content: flex-end;
     display: flex;
     margin-top: 5%;
 background-color: black;
+width: 830px;
 }
 .h41{
     /* text-align: center; */
@@ -261,8 +262,9 @@ background-color: black;
     padding-left: 5%;
     display: flex;
     flex-direction: row;
-    width: 900px;
+    width: 800px;
     margin-top: 1%;
+    height: 300px;
 }
 .icons{
     padding-bottom: 20%;
@@ -380,6 +382,22 @@ background-color: black;
         width: 120px;
         height: 50px;
         padding-top: 2%;
+    }
+    .proof{
+        display: flex;
+        border: #888888 solid;
+        width: 580px;
+        border-left: transparent;
+        border-right: transparent;
+        border-top: transparent;
+        background-color: #f5f3f1;
+        margin-top: 30%;
+    }
+    .proof3{
+        padding-top: 2%;
+    }
+    .tomatoes{
+        margin-left: 100px;
     }
    
     

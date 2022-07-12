@@ -373,7 +373,7 @@ width: 830px;
         background-image: url(image/oscar.png);
     background-size: contain;
     box-sizing: border-box;  
-    background-size: 200px 200px;
+
     display: flex;
     }
     .explore{

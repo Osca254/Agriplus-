@@ -18,4 +18,5 @@ the project entails that one should have a computer ,by computer i mean any devi
 to run this folder download it  from github using the link provided below.With the aid of Liveserver in the extension run the codes and execute the program
 # License information
 [MIT](LICENSE)
+Copyright (c) 2022 Oscar Okumu Ofula
 

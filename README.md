@@ -16,5 +16,6 @@ Its a development of a Farming website meant for commercial purposes. This proje
 the project entails that one should have a computer ,by computer i mean any device that can access internet , the device should have chrome and has an access to internet services
 # Program Setup
 to run this folder download it  from github using the link provided below.With the aid of Liveserver in the extension run the codes and execute the program
-
+# License information
+[MIT](LICENSE)
 

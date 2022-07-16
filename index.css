@@ -371,7 +371,7 @@ width: 830px;
     }
     .back{
         background-image: url(image/oscar.png);
-    background-size: contain;
+    background-size: 300px 300px;
     box-sizing: border-box;  
 
     display: flex;
